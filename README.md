@@ -3,4 +3,4 @@ Si vuole realizzare in linguaggio C/C++ un'applicazione multiprocesso per la sim
 L'applicazione è costituita da 50 processi client che possono prenotare da uno a 4 posti.
 Ad ogni tentativo di prenotazione, il client stabilisce se c'è spazio, altrimenti termina subito con un messaggio di "disponibilità esaurita".
 Se c'è disponiblità il client occupa i primi posti liberi che trova,assegnando ai posti il proprio id_cliente.
-Si sviluppi inoltre un processo visualizzatore che stampa a video ogni secondo la situazione dei posti nel teatro crivendo su ogni riga il numero di posto, lo stato, ed eventualmente il cliente che ha occupato il posto.
+Si sviluppi inoltre un processo visualizzatore che stampa a video ogni secondo la situazione dei posti nel teatro scrivendo su ogni riga il numero di posto, lo stato, ed eventualmente il cliente che ha occupato il posto.
