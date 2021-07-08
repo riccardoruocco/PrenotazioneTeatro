@@ -8,6 +8,6 @@ Si sviluppi inoltre un processo visualizzatore che stampa a video ogni secondo l
 L'applicazione è stata sviluppata attraverso le primitive di sincronizzazione tipiche dei sistemi UNIX ed il tutto è stato provato su LINUX MINT.
 L'utente che desidera povare l'applicaione su sistemi UNIX deve:
 
-**1)copiare l'intero contenuto della cartella
+'''1)copiare l'intero contenuto della cartella
 
-**2)Aggiornare la variabile d'ambiente del proprio sistema accodandogli il path fino alla cartella che contiene i file 
+'''2)Aggiornare la variabile d'ambiente del proprio sistema accodandogli il path fino alla cartella che contiene i file 
