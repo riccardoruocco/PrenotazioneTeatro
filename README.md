@@ -14,23 +14,23 @@ L'utente che desidera provare l'applicaione su sistemi UNIX/LINUX deve:
 
 2)Aggiornare la variabile d'ambiente del proprio sistema accodandogli il path fino alla cartella che contiene i file, cio può essere ottenuto aprendo una shell e digitando
 ```c
->>export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:@path_cartella
+$export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:@path_cartella
 ```
 dove @path_cartella è  il path fino alla cartella che contiene i file,senza specificare nessuno dei file.
 
 3)compilare l'applicazione attraverso il makefile digitando nella stessa shell aperta precedentemente
 ```c
->>make
+$make
 ```
 4)aprire un'altra shell
 
 5)lanciare,ognuno in una shell,i due eseguibili client e server con i comandi
 ```c
 SHELL1
->>./client
+$./client
 ```
 ```c
 SHELL2
->>./server
+$./server
 ```
 è raccomandabile cercare di lanciare i due eseguibili quasi in contemporanea o comunque non far passare troppo tempo tra l'avvio delle esecuzioni.
