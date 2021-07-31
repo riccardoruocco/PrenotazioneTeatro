@@ -12,7 +12,7 @@ L'utente che desidera provare l'applicaione su sistemi UNIX/LINUX deve:
 
 1)copiare l'intero contenuto della cartella
 
-2)Aggiornare la variabile d'ambiente del proprio sistema accodandogli il path fino alla cartella che contiene i file, cio può essere ottenuto aprendo una shell e digitando
+2)Aggiornare la variabile d'ambiente del proprio sistema accodandogli il path fino alla cartella che contiene i file, ciò può essere ottenuto aprendo una shell e digitando
 ```c
 $export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:@path_cartella
 ```
