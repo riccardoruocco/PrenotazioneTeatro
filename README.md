@@ -8,7 +8,7 @@ Si sviluppi inoltre un processo visualizzatore che stampa a video ogni secondo l
 
 
 L'applicazione è stata sviluppata attraverso le primitive di sincronizzazione tipiche dei sistemi UNIX ed il tutto è stato provato su LINUX MINT.
-L'utente che desidera provare l'applicaione su sistemi UNIX/LINUX deve:
+L'utente che desidera provare l'applicazione su sistemi UNIX/LINUX deve:
 
 1)copiare l'intero contenuto della cartella
 
